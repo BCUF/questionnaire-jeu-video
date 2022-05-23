@@ -93,11 +93,13 @@ Possédez vous du matériel promotionnel (flyer, affiche, trailer, goodies...) l
 &nbsp;&nbsp;&nbsp;&nbsp;Si oui, êtes-vous disposé à le déposer pour archivage? (analogique et numérique)
 
 Avez-vous reçu des prix pour votre œuvre? 
+
 &nbsp;&nbsp;&nbsp;&nbsp;Si oui, lesquels et êtes-vous disposé à déposer toute manifestation physique des prix reçus?
 
 Votre jeu a-t-il fait l'objet de critiques/évaluations/tests dans la presse?
 
 Avez-vous présenter votre jeu lors de festivals ou salons? 
+
 &nbsp;&nbsp;&nbsp;&nbsp;Si oui, lesquels? Avez-vous conçu des demo/prototypes?
 
 Pouvez-vous énumérer les partenaires avec qui vous avez travaillé sur l’œuvre? Prestataires pour le développement, la promotion...
