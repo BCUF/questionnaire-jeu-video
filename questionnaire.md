@@ -79,6 +79,7 @@ Dans le cas d’un environnement plus complexe, auriez-vous des schémas ou plan
 
 ## Conservation :
 Le jeu est-il en état de fonctionnement à votre connaissance ? 
+
 &nbsp;&nbsp;&nbsp;&nbsp;Si non, avez-vous évalué les parties dysfonctionnantes (hardware, software) ?
 
 Dans le cas où la ou les plateformes sur lesquelles le jeu a été conçu sont obsolètes,
