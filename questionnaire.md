@@ -107,5 +107,5 @@ Pouvez-vous énumérer les partenaires avec qui vous avez travaillé sur l’œu
 Votre jeu fait-il l'objet de réappropriation par la communauté: modding, speedrunning, cosplay...?
 
 Connaissez-vous des communautés qui échangent autour de votre jeu? (forum, stream...)
-## Contributrices, contributeurs aux questionnaires 
+## Contributrices, contributeurs au questionnaire
 Eléonore Bernard, Robin François, Romain Guedj, Yannick Rochat, Magalie Vetter.
