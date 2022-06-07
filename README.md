@@ -11,4 +11,4 @@ L’auteur est un nom générique. Il peut être différent suivant chaque conte
 
 Ces questions pourront être adressées à une ou plusieurs personnes qui pourront répondre à certaines parties suivant leur spécialités et leur compétences. Dans le cas où plusieurs personnes peuvent répondre à une même question , il serait intéressant de conserver les informations communiquées en lien avec le nom des contributeurs-trices. 
 
-Les trois premiers points **conception**, **documentation du jeu** et **conservation** sont orientés pour assurer la préservation du jeu tandis que la **documentation autour du jeu** traite davantage sur le contexte de diffusion du jeu et donc vise à étoffer la connaissance sur la réception du jeu.
+Les trois premiers points **conception**, **documentation du jeu** et **conservation** sont orientés pour assurer la préservation du jeu tandis que la **documentation autour du jeu** traite davantage du contexte de diffusion du jeu et donc vise à étoffer la connaissance sur la réception du jeu.
