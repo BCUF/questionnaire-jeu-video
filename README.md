@@ -7,7 +7,7 @@ Tout d’abord ce questionnaire a été réalisé en collaboration avec la BCU F
 
 Comme outil de travail, il n’a pas été conçu pour être distribué sans une prise de contact préalable avec la ou les personnes susceptibles de vous communiquer des informations pertinentes. Il est davantage envisagé comme une liste de questions potentielles à adresser si possible en entretien avec les personnes. Par expérience, une discussion permet de recueillir des informations plus riches et complètes que par le biais de l’envoi du questionnaire par écrit ou via un formulaire électronique. La discussion et l’échange permettent rapidement de clarifier, approfondir, découvrir ou éluder certains points. 
 
-L’auteur ou l'auteure est un nom générique. Il peut être différent suivant chaque contexte. Ce pourrait être le studio de production du jeu vidéo, ou une personne qui en est le concepteur principal.
+L’auteur ou l'auteure est un nom générique. Il peut être différent suivant chaque contexte. Ce pourrait être le studio de production du jeu vidéo, ou une personne qui en est la conceptrice ou le concepteur principal.
 
 Ces questions pourront être adressées à une ou plusieurs personnes qui pourront répondre à certaines parties suivant leur spécialités et leur compétences. Dans le cas où plusieurs personnes peuvent répondre à une même question , il serait intéressant de conserver les informations communiquées en lien avec le nom des contributeurs ou contributrices. 
 
