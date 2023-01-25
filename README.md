@@ -9,6 +9,6 @@ Comme outil de travail, il n’a pas été conçu pour être distribué sans une
 
 L’auteur ou l'auteure est un nom générique. Il peut être différent suivant chaque contexte. Ce pourrait être le studio de production du jeu vidéo, ou une personne qui en est la conceptrice ou le concepteur principal.
 
-Ces questions pourront être adressées à une ou plusieurs personnes qui pourront répondre à certaines parties suivant leur spécialités et leur compétences. Dans le cas où plusieurs personnes peuvent répondre à une même question , il serait intéressant de conserver les informations communiquées en lien avec le nom des contributeurs ou contributrices. 
+Ces questions pourront être adressées à une ou plusieurs personnes qui pourront répondre à certaines parties suivant leurs spécialités et leurs compétences. Dans le cas où plusieurs personnes peuvent répondre à une même question , il serait intéressant de conserver les informations communiquées en lien avec le nom des contributeurs ou contributrices. 
 
 Les trois premiers points **conception**, **documentation du jeu** et **conservation** sont orientés pour assurer la préservation du jeu tandis que la **documentation autour du jeu** traite davantage du contexte de diffusion du jeu et donc vise à étoffer la connaissance sur la réception du jeu.
